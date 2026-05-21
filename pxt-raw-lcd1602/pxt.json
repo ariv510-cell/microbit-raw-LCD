@@ -1,0 +1,18 @@
+{
+  "name": "raw-lcd1602",
+  "version": "0.0.1",
+  "description": "Raw parallel LCD1602 driver for micro:bit MakeCode",
+  "dependencies": {
+    "core": "*",
+    "microbit": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": true,
+  "preferredEditor": "blocksprj"
+}
